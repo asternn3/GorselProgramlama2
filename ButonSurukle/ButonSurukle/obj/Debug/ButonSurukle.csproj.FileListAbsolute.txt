@@ -1,0 +1,10 @@
+C:\Users\lab_c\Desktop\abc\ButonSurukle\ButonSurukle\bin\Debug\ButonSurukle.exe.config
+C:\Users\lab_c\Desktop\abc\ButonSurukle\ButonSurukle\bin\Debug\ButonSurukle.exe
+C:\Users\lab_c\Desktop\abc\ButonSurukle\ButonSurukle\bin\Debug\ButonSurukle.pdb
+C:\Users\lab_c\Desktop\abc\ButonSurukle\ButonSurukle\obj\Debug\ButonSurukle.csproj.AssemblyReference.cache
+C:\Users\lab_c\Desktop\abc\ButonSurukle\ButonSurukle\obj\Debug\ButonSurukle.Form1.resources
+C:\Users\lab_c\Desktop\abc\ButonSurukle\ButonSurukle\obj\Debug\ButonSurukle.Properties.Resources.resources
+C:\Users\lab_c\Desktop\abc\ButonSurukle\ButonSurukle\obj\Debug\ButonSurukle.csproj.GenerateResource.cache
+C:\Users\lab_c\Desktop\abc\ButonSurukle\ButonSurukle\obj\Debug\ButonSurukle.csproj.CoreCompileInputs.cache
+C:\Users\lab_c\Desktop\abc\ButonSurukle\ButonSurukle\obj\Debug\ButonSurukle.exe
+C:\Users\lab_c\Desktop\abc\ButonSurukle\ButonSurukle\obj\Debug\ButonSurukle.pdb
