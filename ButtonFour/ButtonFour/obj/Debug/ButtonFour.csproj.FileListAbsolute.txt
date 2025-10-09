@@ -1,0 +1,10 @@
+C:\Users\lab_c\Desktop\abc\ButtonFour\ButtonFour\bin\Debug\ButtonFour.exe.config
+C:\Users\lab_c\Desktop\abc\ButtonFour\ButtonFour\bin\Debug\ButtonFour.exe
+C:\Users\lab_c\Desktop\abc\ButtonFour\ButtonFour\bin\Debug\ButtonFour.pdb
+C:\Users\lab_c\Desktop\abc\ButtonFour\ButtonFour\obj\Debug\ButtonFour.csproj.AssemblyReference.cache
+C:\Users\lab_c\Desktop\abc\ButtonFour\ButtonFour\obj\Debug\ButtonFour.Form1.resources
+C:\Users\lab_c\Desktop\abc\ButtonFour\ButtonFour\obj\Debug\ButtonFour.Properties.Resources.resources
+C:\Users\lab_c\Desktop\abc\ButtonFour\ButtonFour\obj\Debug\ButtonFour.csproj.GenerateResource.cache
+C:\Users\lab_c\Desktop\abc\ButtonFour\ButtonFour\obj\Debug\ButtonFour.csproj.CoreCompileInputs.cache
+C:\Users\lab_c\Desktop\abc\ButtonFour\ButtonFour\obj\Debug\ButtonFour.exe
+C:\Users\lab_c\Desktop\abc\ButtonFour\ButtonFour\obj\Debug\ButtonFour.pdb
